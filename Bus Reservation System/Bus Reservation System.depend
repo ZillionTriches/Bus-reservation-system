@@ -1,0 +1,28 @@
+# depslib dependency file v1.0
+1671762592 source:d:\muhammad\project\bus service\bus reservation system\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	<ctype.h>
+	<unistd.h>
+	"splash.h"
+	"login.h"
+	"database.h"
+	"H_database.h"
+
+1671683427 d:\muhammad\project\bus service\bus reservation system\splash.h
+	<stdio.h>
+
+1671683079 d:\muhammad\project\bus service\bus reservation system\database.h
+	<stdio.h>
+
+1671762438 d:\muhammad\project\bus service\bus reservation system\login.h
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
+1671706133 d:\muhammad\project\bus service\bus reservation system\h_database.h
+	<stdio.h>
+	<string.h>
+
